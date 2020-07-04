@@ -1,0 +1,16 @@
+liballegro5-dev #Tested on: liballegro5.2-dev
+
+#IMGUI Files:
+# imconfig.h
+# imconfig_allegro5.h
+# imgui.cpp
+# imgui.h
+# imgui_demo.cpp
+# imgui_draw.cpp
+# imgui_impl_allegro5.cpp
+# imgui_impl_allegro5.h
+# imgui_internal.h
+# imgui_widgets.cpp
+# imstb_rectpack.h
+# imstd_textedit.h
+# imstb_truetype.h
