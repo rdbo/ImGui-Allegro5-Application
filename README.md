@@ -2,7 +2,7 @@
 
 # How to compile on Linux
 
-Make sure all the dependencies of the file requirements.txt are satisfied  
+Make sure all the dependencies of the file requirements.txt are satisfied. Installing them through a package manager, such as APT might work.  
 Give execute permission to the file "compile.sh" by running the command:  
 ```
 $ chmod +x compile.sh
