@@ -15,4 +15,4 @@ The output file is called "imgui_allegro5_app". To test it, run:
 ```
 $ ./imgui_allegro5_app
 ```
-[Scrsht-Linux](https://github.com/rdbo/ImGui-Allegro5-Application/blob/master/imgui-allegro5-window-screenshot-linux.png)
+[alt-text](https://github.com/rdbo/ImGui-Allegro5-Application/blob/master/imgui-allegro5-window-screenshot-linux.png)
